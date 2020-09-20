@@ -8,5 +8,5 @@ def my_find(collection)
     i += 1 
   end
   
-  my_find.find
+  if my_find == true 
 end
