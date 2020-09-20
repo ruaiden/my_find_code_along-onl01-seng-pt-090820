@@ -7,4 +7,6 @@ def my_find(collection)
     yield (collection[i])
     i += 1 
   end
+  
+  my_find.find
 end
